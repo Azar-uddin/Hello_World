@@ -3,13 +3,13 @@ def add(x,y):
     return x+y
 #Subtract Implementation
 def subtract(x,y):
-    return x-y              #on master Branch
+    return x-y
 #multiply Implementation
 def multiply(x,,y):
-    return x*y              #on Bugbarnch456
+    return x*y
 #divide Implementation
 def divide(x,y):
-    if y==0:                #on master branch
+    if y==0:
         return DIVIDE_BY_0_ERROR
     else:
         return x/y
